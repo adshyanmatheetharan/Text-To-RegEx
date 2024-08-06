@@ -21,7 +21,7 @@ The essential procedures required for initiating and configuring the project wit
 1. Clone the repository and retrieve it onto your local machine.
 
     ```sh
-    git clone https://github.com/Adshyan-Matheetharan/Text-To-RegEx.git
+    git clone https://github.com/adshyanmatheetharan/Text-To-RegEx.git
     ```
 2. Navigate to the 'src' folder directory.
 
