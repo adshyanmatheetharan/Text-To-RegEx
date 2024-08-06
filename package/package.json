@@ -1,0 +1,24 @@
+{
+  "name": "text-to-regex",
+  "version": "1.0.0",
+  "description": "Convert Text Descriptions To Regular Expressions",
+  "type": "module",
+  "module": "index.ts",
+  "scripts": {
+    "check": "prettier . --check",
+    "write": "prettier . --write"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "3.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^0.0.36",
+    "ai": "^3.3.0",
+    "execa": "^9.3.0",
+    "zod": "^3.23.8"
+  }
+}
