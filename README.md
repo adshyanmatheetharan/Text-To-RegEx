@@ -26,7 +26,7 @@ The essential procedures required for initiating and configuring the project wit
 2. Navigate to the 'src' folder directory.
 
     ```sh
-    cd src
+    cd package
     ```
 3. Install the required packages and dependencies using the Bun Runtime Toolkit.
 
